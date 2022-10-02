@@ -4,7 +4,7 @@
 
 ## Run this file 'Exericse15.ipynb' on your side.
 
-### Once you run this example file 'Exercise14.ipynb', make sure there are 'png' files from python code, 
+### Once you run this example file 'Exercise15.ipynb', make sure there are 'png' files from python code, 
 #### e15-1.png, e15-2.png, e15-3.png
 ### Commit/push all 'png' files to Github classroom Repository
 ##### If you upload all 'png' files, you will pass this test
